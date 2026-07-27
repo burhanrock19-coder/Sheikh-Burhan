@@ -1,0 +1,6 @@
+{
+  "name": "Date Update",
+  "description": "Real-time live date and time monitor, date calculator, countdown manager, timezone converter, and developer timestamp tools.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
